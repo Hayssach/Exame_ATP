@@ -1,0 +1,10 @@
+Matriz de Resultados (1 = linha venceu, 2 = coluna venceu)
+
+01221111
+20122211
+21011221
+22101222
+21110222
+22212011
+11212102
+12121210
