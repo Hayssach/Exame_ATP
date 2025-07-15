@@ -1,0 +1,50 @@
+=== Estat�sticas dos Participantes ===
+
+ID: 6
+Nome: Gustavo
+Vit�rias: 3
+Derrotas: 1
+Movimento Favorito: Papel
+
+ID: 2
+Nome: Carlos
+Vit�rias: 3
+Derrotas: 1
+Movimento Favorito: Pedra
+
+ID: 5
+Nome: Guilherme
+Vit�rias: 3
+Derrotas: 1
+Movimento Favorito: Pedra
+
+ID: 1
+Nome: Maria
+Vit�rias: 2
+Derrotas: 3
+Movimento Favorito: Papel
+
+ID: 7
+Nome: Pedro
+Vit�rias: 2
+Derrotas: 1
+Movimento Favorito: Papel
+
+ID: 4
+Nome: Eduardo
+Vit�rias: 1
+Derrotas: 3
+Movimento Favorito: Pedra
+
+ID: 3
+Nome: Alberto
+Vit�rias: 0
+Derrotas: 2
+Movimento Favorito: Tesoura
+
+ID: 0
+Nome: João
+Vit�rias: 0
+Derrotas: 2
+Movimento Favorito: Papel
+

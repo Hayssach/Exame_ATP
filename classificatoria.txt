@@ -1,0 +1,10 @@
+Matriz de Resultados (0 = empate, 1 = linha venceu, 2 = coluna venceu)
+
+00200002
+00201221
+11010200
+00200020
+02000212
+01101020
+01012100
+12001000

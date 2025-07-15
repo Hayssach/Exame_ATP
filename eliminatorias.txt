@@ -1,0 +1,27 @@
+=== Eliminatorias ===
+=== QUARTAS DE FINAL ===
+
+Partida 1: Gustavo vs João
+Vencedor: Gustavo
+
+Partida 2: Carlos vs Alberto
+Vencedor: Alberto
+
+Partida 3: Guilherme vs Eduardo
+Vencedor: Guilherme
+
+Partida 4: Maria vs Pedro
+Vencedor: Pedro
+
+=== SEMIFINAIS ===
+
+Semifinal 1: Gustavo vs Pedro
+Vencedor: Pedro
+
+Semifinal 2: Alberto vs Guilherme
+Vencedor: Alberto
+
+=== FINAL ===
+
+Final: Pedro vs Alberto
+Campe�o: Pedro
